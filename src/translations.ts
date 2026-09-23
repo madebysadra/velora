@@ -13,7 +13,7 @@ export const content = {
     exploreBtn: 'Explore Collection',
     discoverBtn: 'Brand Philosophy',
     status: 'Precision Engineered · Available Worldwide',
-    designedIn: 'Crafted in Switzerland',
+    designedIn: 'Designed & Built by Sadra',
   },
   collection: {
     label: 'Ecosystem',
